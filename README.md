@@ -14,7 +14,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 1. Mroczkowski Jacek
 1. [Michalski Mateusz][c]
 1. Massalska Emilia
-1. Mazur Michał
+1. [Mazur Michał](http://majkelmatusaf.github.io)
 1. Pająkowski Adrian
 1. Paprocki Adam
 1. [Olszer Krzysztof][e]
